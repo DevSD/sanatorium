@@ -71,5 +71,18 @@ window.calendar_languages['ru-RU'] = {
         '09-05': 'День Победы',
         '12-06': 'День России',
         '04-11': 'День народного единства'
+    },
+
+    timeButtonTitles: {
+        year: 'Год',
+        month: 'Месяц',
+        week: 'Неделя',
+        day: 'День'
+    },
+
+    navigationButtonTitles: {
+        prev: 'Предыдущий',
+        today: 'Сегодня',
+        next: 'Следующий'
     }
 };
