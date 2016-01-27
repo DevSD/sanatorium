@@ -2,7 +2,7 @@ if (!window.calendar_languages) {
     window.calendar_languages = {};
 }
 window.calendar_languages['ua-UA'] = {
-    error_noview: 'Календар: Шаблон виду {0} знайдений.',
+    error_noview: 'Календар: Шаблон виду {0} не знайдений.',
     error_dateformat: 'Календар: невірний формат дати {0}. Повинно бути або "now" або "yyyy-mm-dd"',
     error_loadurl: 'Календар: не призначено URL для завантаження подій.',
     error_where: 'Календар: неправильна навігація {0}. Можна тільки "next", "prev" або  "today"',
