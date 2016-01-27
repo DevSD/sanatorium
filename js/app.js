@@ -4,6 +4,7 @@
 
     var options = {
         events_source: 'events.json.php',
+        language: 'ua-UA',
         view: 'month',
         tmpl_path: 'tmpls/',
         tmpl_cache: false,
@@ -25,6 +26,13 @@
             $('.page-header h3').text(this.getTitle());
             $('.btn-group button').removeClass('active');
             $('button[data-calendar-view="' + view + '"]').addClass('active');
+            $('button[data-calendar-view="year"]').text(this.locale.timeButtonTitles.year);
+            $('button[data-calendar-view="month"]').text(this.locale.timeButtonTitles.month);
+            $('button[data-calendar-view="week"]').text(this.locale.timeButtonTitles.week);
+            $('button[data-calendar-view="day"]').text(this.locale.timeButtonTitles.day);
+            $('button[data-calendar-nav="prev"]').text(this.locale.navigationButtonTitles.prev);
+            $('button[data-calendar-nav="today"]').text(this.locale.navigationButtonTitles.today);
+            $('button[data-calendar-nav="next"]').text(this.locale.navigationButtonTitles.next);
         },
         classes: {
             months: {
