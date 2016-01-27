@@ -239,7 +239,20 @@ if (!String.prototype.formatNum) {
         d3: 'Wednesday',
         d4: 'Thursday',
         d5: 'Friday',
-        d6: 'Saturday'
+        d6: 'Saturday',
+
+        timeButtonTitles: {
+            year: 'Year',
+            month: 'Month',
+            week: 'Week',
+            day: 'Day'
+        },
+
+        navigationButtonTitles: {
+            prev: 'Previous',
+            today: 'Today',
+            next: 'Next'
+        }
     };
 
     var browser_timezone = '';
