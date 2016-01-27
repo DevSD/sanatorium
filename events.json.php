@@ -3,75 +3,75 @@
     "result": [
         {
             "id": "293",
-            "title": "This is warning class event with very long title to check how it fits to evet in day view",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "event-warning",
-            "start": "1362938400000",
-            "end": "1363197686300"
+            "start": "1453984200000",
+            "end": "1453995000000"
         },
         {
             "id": "256",
-            "title": "Event that ends on timeline",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "event-warning",
-            "start": "1363155300000",
-            "end": "1363227600000"
+            "start": "1453995600000",
+            "end": "1453998600000"
         },
         {
             "id": "276",
-            "title": "Short day event",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "event-success",
-            "start": "1363245600000",
-            "end": "1363252200000"
+            "start": "1454061600000",
+            "end": "1454068800000"
         },
         {
             "id": "294",
-            "title": "This is information class ",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "event-info",
-            "start": "1363111200000",
-            "end": "1363284086400"
+            "start": "1454058000000",
+            "end": "1454061600000"
         },
         {
             "id": "297",
-            "title": "This is success event",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "event-success",
-            "start": "1363234500000",
-            "end": "1363284062400"
+            "start": "1454148000000",
+            "end": "1454166000000"
         },
         {
             "id": "54",
-            "title": "This is simple event",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "",
-            "start": "1363712400000",
-            "end": "1363716086400"
+            "start": "1454166000000",
+            "end": "1454169600000"
         },
         {
             "id": "532",
-            "title": "This is inverse event",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "event-inverse",
-            "start": "1364407200000",
-            "end": "1364493686400"
+            "start": "1454169600000",
+            "end": "1454176800000"
         },
         {
             "id": "548",
-            "title": "This is special event",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "event-special",
-            "start": "1363197600000",
-            "end": "1363629686400"
+            "start": "1454234400000",
+            "end": "1454243400000"
         },
         {
             "id": "295",
-            "title": "Event 3",
+            "title": "Событие",
             "url": "http://www.example.com/",
             "class": "event-important",
-            "start": "1364320800000",
-            "end": "1364407286400"
+            "start": "1454246100000",
+            "end": "1454256900000"
         }
     ]
 }
